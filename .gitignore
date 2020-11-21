@@ -1,0 +1,11 @@
+__pycache__
+*.pyc
+.DS_Store
+.ipynb_checkpoints
+.eggs
+build
+dist
+removal-explanations.egg-info
+*catboost_info
+/*.ipynb
+*MNIST
