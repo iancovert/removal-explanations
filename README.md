@@ -40,9 +40,9 @@ plt.bar(np.arange(len(attr)), attr)
 
 For usage examples, see the following notebooks:
 
-- [Census]() shows how to explain individual predictions
-- [MNIST]() shows how to explain the model's loss for individual predictions
-- [Breast cancer (BRCA)]() shows how to explain the dataset loss
+- [Census](https://github.com/iancovert/removal-explanations/blob/main/notebooks/census.ipynb) shows how to explain individual predictions
+- [MNIST](https://github.com/iancovert/removal-explanations/blob/main/notebooks/mnist.ipynb) shows how to explain the model's loss for individual predictions
+- [Breast cancer (BRCA)](https://github.com/iancovert/removal-explanations/blob/main/notebooks/brca.ipynb) shows how to explain the dataset loss
 
 # Authors
 
